@@ -1,5 +1,6 @@
 # 💫 About Me:
 My name is Jatin Bohra. I completed my master's degree at Parul University, and I am currently working as a freelance website developer. My skills are HTML5, CSS3, JavaScript, PHP, Bootstrap, Bulma, MySQL, Python, C language, MS Office, video, and photo editing. Additionally, I'm a part-time social worker for the "Varsha Chhaya" NGO. I published my first research paper, named "SWARM-BOT: AN EXPERIMENT IN SWARM ROBOTICS", and I love to do coding because coding is my life.
+#marwadiwebdeveloper #foodblogger 
 
 
 ## 🌐 Socials:
